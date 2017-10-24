@@ -98,4 +98,4 @@ btle/ecc-server
 
 signature/sigtest/wolfsigtest
 signature/sigtest/opensigtest
-signature/examples/eccsign
+signature/firmware_sign/eccsign
